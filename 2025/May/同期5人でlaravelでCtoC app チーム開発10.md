@@ -1,0 +1,42 @@
+## 取り組んだ課題一覧
+- 同期とc2c appチーム開発
+  - users, products, categoriesテーブルの作成
+- 【初心者から即戦力へ】Next.js 実践Webアプリケーション開発 （2025年最新 v15対応）
+
+## わかったこと（わからなかったこと）
+
+
+## 次やること
+- this is japan. 認証機能実装
+
+## 感じたこと
+
+
+## 学習時間
+- **プログラミング学習時間**
+_*6h<br>
+(今週: 6h, 今月: 31.5h)**_
+
+- 趣味(英語・読書・ジム)
+  - 英語 0h<br>(estimated total hour：2525h)
+    - 洋書 0h
+    - Immersion English 0h
+  - 読書 0h<br>(estimated total read: 225books)
+  - ジム 0h<br>**2025目標: SQ: 150kg, BP: 100kg, DF: 160kg**
+
+# 2025目標
+1: Py,Dj,TS,React/Next.js,Docker,AWS ECS,Fargate,Terraformを使ったポートフォリを完成させる。<br>
+2: TS,React,AWS(or GCP)を採用しているかつ人の可能性を支えるBtoC PJT(Fintech or Edtech or HRtech)で働きはじめる。<br>
+3: 8月末にプログラミング学習時間1000hに到達する。年末に1500hを達成する。<br>
+
+# プログラミング学習時間合計
+_**2024**_<br>
+10月合計: 130.5h<br>
+11月合計: 97h<br>
+12月合計: 46h<br>
+_**2025**_<br>
+1月合計: 71.5h<br>
+2月合計: 123.5h <br>
+3月合計: 34h <br>
+4月合計: 20h <br>
+_**4月までの総合計時間**_: 577.5h
